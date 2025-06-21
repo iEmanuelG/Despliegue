@@ -1,5 +1,4 @@
 pandas
 joblib
-os
 scikit-learn
 openpyxl
